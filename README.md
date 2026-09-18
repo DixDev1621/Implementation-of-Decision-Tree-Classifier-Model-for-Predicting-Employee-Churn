@@ -1,6 +1,6 @@
 # Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
-## NAME:RABANIYA M
-## REG.NO:212224020046
+## NAME:Dixun Devotta S
+## REG.NO:212224060073
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 
